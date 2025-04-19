@@ -1,9 +1,5 @@
 # Peppa Pig (4 Voice)
 
-
-![Audio Track](peppa-pig-4v.mp3)
-
-
 ESC 1:
 ```
 Melody:b=300,o=5,d=4:e6,p,c#6,a,b,p,e,p,e,g#,b,d6,c#6,p,a,p
