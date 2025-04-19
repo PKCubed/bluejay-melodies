@@ -1,7 +1,7 @@
 # Peppa Pig (4 Voice)
 
 
-<audio src="peppa-pig-4v.mp3" controls preload></audio>
+![Audio Track](peppa-pig-4v.mp3)
 
 
 ESC 1:
