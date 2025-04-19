@@ -1,5 +1,4 @@
 # Peppa Pig
-https://github.com/user-attachments/assets/0498cf57-f0e3-43f1-9821-7cef7f75918
 
 ESC 1:
 Melody:b=300,o=5,d=4:e6,p,c#6,a,b,p,e,p,e,g#,b,d6,c#6,p,a,p
